@@ -1,0 +1,25 @@
+h1{
+     color: coral;
+     text-align: center;
+     text-transform: uppercase;
+     font-weight: 900;
+}
+
+img{
+    border-radius: 100%;
+}
+
+h6{
+    font-size: large;
+    text-transform: uppercase;
+}
+
+#header{
+    color: darkgreen;
+
+}
+
+.wrapper{
+    color: blue;
+
+}
